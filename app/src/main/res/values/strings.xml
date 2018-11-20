@@ -1,0 +1,139 @@
+<resources>
+
+    <string name="LastResults">Last Results</string>
+    <string name="Start">Start</string>
+    <string name="Camera">Camera</string>
+    <string name="Lcd">Lcd</string>
+    <string name="MP4">MP4</string>
+    <string name="Sensor">Sensor</string>
+    
+    <string name="app_name">AgingTest</string>
+    
+    <string name="pass">"Pass"</string>
+    <string name="fail">"Fail"</string>
+    
+    <string name="wait">"Please wait ..."</string>
+    
+    <string name="g_null_text"></string>
+    
+    <!-- charge state -->
+    <string name="please_input_charger">"Insert charger please"</string>
+    
+    <!-- camera -->
+    <string name="camera_illustration">"Select the result of Camera test，please！"</string>
+    <!-- CameraBack -->
+    <string name="cameraback_name">CameraBack</string>
+    <string name="cameraback_takepicture">Take picture</string>
+    <string name="cameraback_fail_open">Camera open Fail, please Check Camera Installed Correctly!</string>
+    <string name="autofocus_fail">AutoFocus Failed</string>
+    <string name="connect_fail">can not connet to the back camera</string>
+    <!-- CameraFront -->
+    <string name="camerafront_name">CameraFront</string>
+    <string name="camerafront_takepicture">Take picture</string>
+    
+    <!-- Gyroscope -->
+    <string name="gyroscope_name">Gyroscope</string>
+    <string name="service_get_fail">Sevice get fail!</string>
+    <string name="sensor_get_fail">Sensor get fail!</string>
+    <string name="sensor_register_fail">Sensor register fail!</string>
+    <string name="shake_hint_other_sensor">Please turn round the phone.</string>
+    <string name="test_pass">Test pass</string>
+    
+    <!-- light sensor -->
+    <string name="original_data">"original data："</string>
+    <string name="backlight_data">"backlight data："</string>
+    <string name="lux_data">"LUX："</string>
+    
+    <!-- priximity sensor -->
+    <string name="proximitysenor_info">"Proximity sensor data"</string>
+    <string name="proximity_calibration_illustration">"Please make sure the clamp installed correctly！Click on the button of the calibration "</string>
+    
+    <!-- lcd -->
+    <string name="lcd_illustration">"Press the screen or click back key to switch background,please"</string>
+    
+    <!-- ecompass -->
+    <string name="magneticsensor_info">"地磁传感器数据信息:\n"</string>
+    
+    <!-- loopback -->
+    <string name="change_loop">"switch"</string>
+    <string name="recive_loopback">Receive loopback</string>
+    <string name="head_loopback">Head loopback</string>
+    <string name="receiver_illustration">"Please align MIC blowing"</string>
+    <string name="headset_illustration1">"Please insert headset"</string>
+    <string name="headset_illustration2">"Please start the headset loopback test"</string>
+    <!--headsett-->
+    <string name="remove_headset">Please remove headset</string>
+    <string name="insert_headset">Please insert headset</string>
+    <string name="record_finish">The recorder has finished</string>
+    <!--TransmitterReceiver -->
+    <string name="transmitter_receiver_name">Transmitter and Receiver</string>
+    <string name="transmitter_receiver_hint">Transmitter and Receiver</string>
+    <string name="transmitter_receiver_recording">Now recording, please say some words to transmitter and click Stop button to stop.</string>
+    <string name="transmitter_receiver_recording1">please say some words loudly to second-mic on top of the phone and test whether can hear sound from speaker</string>
+    <string name="transmitter_receiver_recording2">please say some words loudly to transmitter on bottom of the phone and test whether can hear sound from receiver</string>
+    <string name="transmitter_receiver_recording3">please say some words to microphone on headset and test whether can hear sound from headset</string>
+    <string name="transmitter_receiver_playing">Replaying now, please listen to the receiver.</string>
+    <string name="transmitter_receiver_confirm">Do you hear the sound?</string>
+    <string name="transmitter_receiver_record_first">Please click Record button first</string>
+    <string name="transmitter_receiver_replay_end">Have reached the end.</string>
+    <string name="transmitter_receiver_to_record">Click Record button to record sound.</string>
+    <!-- Headset -->
+    <string name="headset_name">Headset</string>
+    <string name="headset_hint">Headset</string>
+    <string name="headset_recording">Now recording, please say some words to transmitter and click Stop button to stop.</string>
+    <string name="headset_playing">Replaying now, please listen to the receiver.</string>
+    <string name="headset_confirm">Do you hear the sound?</string>
+    <string name="headset_record_first">Please click Record button first</string>
+    <string name="headset_replay_end">Have reached the end，please select test results.</string>
+    <string name="headset_to_record">Click Record button to record sound.</string>
+    <string name="speaker_recording">>Now being recorded, please speak</string>
+    <string name="stop">Stop</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="record">Record</string>
+    <string name="recording_play">Test the recording</string>
+    
+    <!-- wifi -->
+    <string name="wifisettins_page">"Select the result of WLAN test，please！"</string>
+    <string name="wifisettins_24g">"2.4G WiFi :  "</string>
+    <string name="wifisettins_5g">"5G WiFi :  "</string>
+    <string name="wifi_scan_null">Not found any AP!</string>
+    <string name="wifi_name">WiFi</string>
+    <string name="wifi_text">WiFi test will be completed within 30 seconds, please wait. </string>
+    <string name="wifi_scan_failed">Scan failed!</string>
+    <string name="wifi_is_closing">WiFi is closing, please retry after a while.</string>
+    <string name="wifi_state_unknown">WiFi state unknown, please retry.</string>
+    
+    <!-- BlueTooth -->
+    <string name="bluetooth_setingpage">"Select the result of BlueTooth test,please!"</string>
+    <string name="bluetooth_name">Bluetooth</string>
+    <string name="bluetooth_scan_start">Scaning devices...</string>
+    <string name="bluetooth_scan_finish">Finish scan</string>
+    <string name="bluetooth_turning_on">Turning on bluetooth...</string>
+    <string name="bluetooth_scan_null">Not found any device</string>
+    <string name="scan">Scan</string>
+    <string name="cancel">Cancel</string>
+    
+    <!-- gps -->
+    <string name="gps_info">"getting data of GPS："</string>
+    <string name="bd_info">"getting data of BeiDou："</string>
+    <string name="gps_success">"Locating..."</string>
+    <string name="gps_located">Locate success</string>
+    <string name="gps_located_fail">Locate fail</string>
+    <string name="gps_st_info_snr">SNR：</string>
+    <string name="gps_st_info_prn">PRN：</string>
+    <string name="gps_st_info_azimuth">AZIMUTH：</string>
+    <string name="gps_st_info_elevation">ELEVATION：</string>
+    <string name="gps_open_error">"An error occurred when open GPS！"</string>
+    <string name="del_success">"Delete the data of GPS successful!"</string>
+    <string name="del_fail">"Delete the data of GPS failed!"</string>
+    
+    <!-- Vibrate -->
+    <string name="vibrate_hint">Observation of vibrate is working, please!</string>
+    
+    <!--Receiver test -->
+    <string name="str_receiver_hint">Please listen to the receiver,do you hear the sound?</string>
+    <string name="str_receiver_time">testing time： </string>
+    
+</resources>

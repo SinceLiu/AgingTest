@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/test_gps"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <!--
+<TextView
+android:id="@+id/tv_st_info"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="@string/satellite_count"
+android:textSize="26dip"
+/>
+
+<TextView
+android:id="@+id/tv_satellite_count"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:textSize="28dip"
+/>
+    -->
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_st_info"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/gps_info" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/tv_st_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/g_null_text" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/tv_st_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/g_null_text" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/tv_st_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/g_null_text" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/tv_st_4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/g_null_text" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/tv_st_5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/g_null_text" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/tv_st_6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/g_null_text" >
+            </TextView>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#ffffff"/>
+            <TextView
+                android:id="@+id/tv_bdst_info"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bd_info" >
+            </TextView>
+            <TextView
+                android:id="@+id/tv_st_7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/g_null_text" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/tv_st_8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/g_null_text" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/tv_st_9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/g_null_text" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/tv_st_10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/g_null_text" >
+            </TextView>
+            <TextView
+                android:id="@+id/tv_st_11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/g_null_text" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/tv_st_12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/g_null_text" >
+            </TextView>
+            <!--  -->
+
+            <TextView
+                android:id="@+id/tv_st_success"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/gps_success"
+                android:textSize="22dip" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/tv_st_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/g_null_text"
+                android:textSize="22dip" >
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

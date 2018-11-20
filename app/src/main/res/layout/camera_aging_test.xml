@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+        Copyright (c) 2011, QUALCOMM Incorporated.
+        All Rights Reserved.
+        QUALCOMM Proprietary and Confidential.
+        Developed by QRD Engineering team.
+-->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/FrameLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center_horizontal" >
+
+    <SurfaceView
+        android:id="@+id/mSurfaceView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_horizontal"
+        android:visibility="visible" />
+
+</FrameLayout>

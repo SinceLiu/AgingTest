@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TextView
+        android:id="@+id/transmitter_receiver_hint"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginBottom="60dip"
+        android:text="@string/speaker_recording"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+    />
+    <Button
+        android:id="@+id/transmitter_receiver_start"
+        android:text="@string/record"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge">
+    </Button>
+
+    <Button
+        android:id="@+id/transmitter_receiver_stop"
+        android:text="@string/stop"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="50dip"
+        android:textAppearance="?android:attr/textAppearanceLarge">
+    </Button>
+</FrameLayout>

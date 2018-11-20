@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <Button
+                    android:id="@+id/btn_discovery_wifipoint"
+                    android:layout_width="200dip"
+                    android:layout_height="70dip" />
+
+                <TextView
+                    android:id="@+id/tv_wifi_24g"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/btn_discovery_wifipoint"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/wifisettins_24g"
+                    android:textSize="22dip" />
+
+                <TextView
+                    android:id="@+id/tv_wifi_5g"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_wifi_24g"
+                    android:layout_marginTop="30dp"
+                    android:text="@string/wifisettins_5g"
+                    android:textSize="22dip" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+    </ScrollView>
+	
+</FrameLayout>

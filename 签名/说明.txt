@@ -1,0 +1,7 @@
+password:
+soft@readboy.com
+23378528
+
+alias选项:g200,rbsoft,p100,f300,q5,f100
+如果apk是通用的,alias选rbsoft
+否则选项目名称
