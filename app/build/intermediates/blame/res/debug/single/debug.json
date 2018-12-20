@@ -1,5 +1,9 @@
 [
     {
+        "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
         "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_receivertest.xml.flat",
         "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\layout\\receivertest.xml"
     },
@@ -10,30 +14,6 @@
     {
         "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_bluetooth_setingpage.xml.flat",
         "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\layout\\bluetooth_setingpage.xml"
-    },
-    {
-        "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_aging_test.xml.flat",
-        "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\layout\\camera_aging_test.xml"
-    },
-    {
-        "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_gyroscope.xml.flat",
-        "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\layout\\gyroscope.xml"
-    },
-    {
-        "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_front.xml.flat",
-        "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\layout\\camera_front.xml"
-    },
-    {
-        "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_ecompass_complete.xml.flat",
-        "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\layout\\ecompass_complete.xml"
-    },
-    {
-        "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_txt_list.xml.flat",
-        "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\layout\\txt_list.xml"
-    },
-    {
-        "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
-        "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
         "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\raw_music.mp3.flat",
@@ -48,6 +28,10 @@
         "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\layout\\lcd.xml"
     },
     {
+        "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_aging_test.xml.flat",
+        "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\layout\\camera_aging_test.xml"
+    },
+    {
         "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_transmitter_receiver.xml.flat",
         "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\layout\\transmitter_receiver.xml"
     },
@@ -56,8 +40,16 @@
         "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_gyroscope.xml.flat",
+        "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\layout\\gyroscope.xml"
+    },
+    {
         "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
         "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_front.xml.flat",
+        "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\layout\\camera_front.xml"
     },
     {
         "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
@@ -80,8 +72,16 @@
         "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\layout\\wifiseting_page.xml"
     },
     {
+        "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_ecompass_complete.xml.flat",
+        "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\layout\\ecompass_complete.xml"
+    },
+    {
         "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_mp4.xml.flat",
         "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\layout\\mp4.xml"
+    },
+    {
+        "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_txt_list.xml.flat",
+        "source": "F:\\Android Studio WorkSpace\\AgingTest\\app\\src\\main\\res\\layout\\txt_list.xml"
     },
     {
         "merged": "F:\\Android Studio WorkSpace\\AgingTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_back.xml.flat",

@@ -1,18 +1,18 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:1:1-104:12
-INJECTED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:1:1-104:12
-INJECTED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:1:1-104:12
-INJECTED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:1:1-104:12
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:1:1-103:12
+INJECTED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:1:1-103:12
+INJECTED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:1:1-103:12
+INJECTED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:1:1-103:12
 MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\82067b0f9da4b23790cd562f1ce218e5\AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\71cbc58520ee8c94f9c66c16ddc84fe3\AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\47fd978fd6ad2e43b6a66c2ce4554c80\AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\1b2086896d090e542d5947254a69ae9e\AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\27d04f7beb35593729fbbe4a848747e5\AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\cce0a8b2f9e5795ffdaffbda19a17b50\AndroidManifest.xml:17:1-27:12
-INJECTED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:1:1-104:12
-INJECTED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:1:1-104:12
-INJECTED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:1:1-104:12
+INJECTED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:1:1-103:12
+INJECTED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:1:1-103:12
+INJECTED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:1:1-103:12
 	package
 		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:2:5-34
 		INJECTED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml
@@ -177,79 +177,79 @@ uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:80:5-80
 	android:name
 		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:80:22-78
-uses-permission#android.permission.CAMERA
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:81:5-64
-	android:name
-		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:81:22-62
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:82:5-79
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:81:5-79
 	android:name
-		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:82:22-77
+		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:81:22-77
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:83:5-78
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:82:5-78
 	android:name
-		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:83:22-76
+		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:82:22-76
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:84:5-72
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:83:5-72
 	android:name
-		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:84:22-70
+		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:83:22-70
 uses-permission#android.permission.DISABLE_KEYGUARD
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:85:5-74
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:84:5-74
 	android:name
-		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:85:22-72
+		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:84:22-72
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:86:5-80
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:85:5-80
 	android:name
-		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:86:22-78
+		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:85:22-78
 uses-permission#android.permission.BLUETOOTH
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:87:5-68
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:86:5-68
 	android:name
-		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:87:22-65
+		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:86:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:88:5-74
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:87:5-74
 	android:name
-		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:88:22-71
+		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:87:22-71
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:89:5-76
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:88:5-76
 	android:name
-		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:89:22-73
+		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:88:22-73
+uses-permission#android.permission.CAMERA
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:89:5-65
+	android:name
+		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:89:22-62
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:91:5-76
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:90:5-76
 	android:name
-		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:91:22-73
+		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:90:22-73
 uses-permission#android.permission.INTERNET
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:92:5-67
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:91:5-67
 	android:name
-		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:92:22-64
+		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:91:22-64
 uses-feature#android.hardware.camera
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:94:9-66
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:93:9-66
 	android:name
-		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:94:23-63
+		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:93:23-63
 uses-feature#android.hardware.camera.autofocus
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:95:9-76
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:94:9-76
 	android:name
-		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:95:23-73
+		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:94:23-73
 uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:95:5-79
+	android:name
+		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:95:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:96:5-79
 	android:name
 		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:96:22-76
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:97:5-79
-	android:name
-		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:97:22-76
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:98:5-71
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:97:5-71
 	android:name
-		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:98:22-68
+		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:97:22-68
 uses-permission#android.permission.FLASHLIGHT
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:99:5-69
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:98:5-69
 	android:name
-		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:99:22-66
+		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:98:22-66
 uses-permission#android.permission.MANAGE_ACCOUNTS
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:100:5-74
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:99:5-74
 	android:name
-		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:100:22-71
+		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:99:22-71
 uses-permission#android.permission.WRITE_SYNC_SETTINGS
-ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:102:5-78
+ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:101:5-78
 	android:name
-		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:102:22-75
+		ADDED from F:\Android Studio WorkSpace\AgingTest\app\src\main\AndroidManifest.xml:101:22-75
